@@ -15,8 +15,9 @@ var Hangman = (function () {
         this.elId       = elId;
         // Possible words
         this.words      = [
-            'PROGRAMMER', 'BRAINSTORM', 'CREATIVE', 'LOLLIPOP',
-            'CULTURE', 'RAZORSHARP', 'SCREWDRIVER', 'TYPEWRITER'
+            'BLEAK', 'ASSESSMENT', 'FUTURISTIC', 'DEPLOY',
+            'INSTABILITY', 'INTELLIGENCE', 'REVENUES', 'DROUGHTS', 'HUMANITARIAN', 'MISCALCULATION', 'REFLECTIVE', 'ERUPTION', 'AEROSOLS',
+            'REGULATION', 'HEIGHTEN', 'INFRASTRUCTURE', 'DESERTIFICATION', 'MIGRATING', 'FACTOR'
         ];
     }
 
